@@ -1,0 +1,67 @@
+header h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.first {
+    text-align: center;
+    font-size: 25px;
+    border: 0px;
+}
+
+header p {
+    text-align: center;
+    font-size: 30px;
+}
+
+main p {
+    font-size: 25px;
+}
+
+img {
+    width: 141px;
+    border-radius: 10px;
+    border: 5px solid gold;
+}
+
+header {
+    border-radius: 25px;
+}
+
+main {
+    border-radius: 30px;
+}
+
+footer {
+    border-radius: 30px;
+}
+
+main, footer {
+    text-align: center;
+}
+
+main, h1, footer {
+    padding: px;
+    border: 5px solid gold;
+    border-radius: 25px;
+}
+
+nav a {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+   text-decoration: none;
+   padding-right: 60px;
+}
+
+footer {
+    background-color: firebrick;
+}
+
+footer p, footer a {
+    background-color: white;
+}
+
+footer a {
+    color: black;
+}
