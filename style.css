@@ -69,3 +69,9 @@ footer a {
 nav {
     text-align: centre;
 }
+
+main p, h1 {
+    background-color: darkblue ;
+    color: gold ;
+    border-radius: 25px;
+}
